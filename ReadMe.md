@@ -24,7 +24,7 @@ You can assume that the input arrives in ascending chronological order and that 
 
 **Solution:**
 
-Unzip the project and copy it into to the location and then import as maven spring boot project to your IDE.
+Clone the project and then import it as maven spring boot project to your IDE.
 
 Project is built on Java - SpringBoot with maven.
 Execute the command to build the project.
